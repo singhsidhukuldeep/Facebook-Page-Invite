@@ -27,13 +27,14 @@ This code uses : `https://chrome.google.com/webstore/detail/cjmhellgomfgjiogcglf
 and navigate to Console and directly paste the code in `Javascript.js` there.**
 
 ## CREDITS
-Kuldeep Singh Sidhu
+
+>Kuldeep Singh Sidhu
 
 Github: [github/singhsidhukuldeep](https://github.com/singhsidhukuldeep)
 `https://github.com/singhsidhukuldeep`
 
-Website: [Kuldeep Singh Sidhu (Website)](http://kuldeepsinghsidhu.esy.es)
-`http://kuldeepsinghsidhu.esy.es`
+Website: [Kuldeep Singh Sidhu (Website)](http://kuldeepsinghsidhu.com)
+`http://kuldeepsinghsidhu.com`
 
-LinkedIn: [Kuldeep Singh Sidhu (LinkedIn)](https://www.linkedin.com/in/kuldeep-singh-sidhu-96a67170/)
-`https://www.linkedin.com/in/kuldeep-singh-sidhu-96a67170/`
+LinkedIn: [Kuldeep Singh Sidhu (LinkedIn)](https://www.linkedin.com/in/singhsidhukuldeep/)
+`https://www.linkedin.com/in/singhsidhukuldeep/`
